@@ -1,0 +1,6 @@
+{
+  "name": "Taiwan Customs Clearance & Prohibited Items Guide",
+  "description": "Comprehensive airport arrivals compliance guide on prohibited items, African swine fever pork bans, e-cigarette restrictions, duty-free allowances, and declaration rules for traveling to Taiwan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
